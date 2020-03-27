@@ -374,4 +374,7 @@
 
     <!-- Full screen aspect ratio -->
     <bool name="config_haveHigherAspectRatioScreen">false</bool>
+
+    <!-- Whether the device supports Smart Pixels -->
+    <bool name="config_enableSmartPixels">true</bool>
 </resources>

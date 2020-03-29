@@ -767,3 +767,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.oem_unlock.pst=/dev/block/platform/soc/1da4000.ufshc/by-name/misc \
     ro.hardware.egl=adreno \
     ro.gfx.driver.0=com.google.pixel.wahoo.gfxdrv
+
+# AICP Maintainer
+PRODUCT_PROPERTY_OVERRIDES += \
+    DEVICE_MAINTAINERS="Eamon Powell"
